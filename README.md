@@ -2,11 +2,10 @@
 
 In this application, optical flow test is performed on traffic data.
 
-
-##1 Downloading data on my drive
+Downloading data on my drive
 https://drive.google.com/drive/folders/1_Y7Xy3hWqVj_crhCLRrxnxWzUgjhw8fw?usp=sharing
 
-##2 Test with Opencv-CUDA
+##  Test with Opencv-CUDA
 
 ###  opencv gpu installation 
 
