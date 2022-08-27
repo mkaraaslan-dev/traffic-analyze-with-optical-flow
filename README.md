@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1_Y7Xy3hWqVj_crhCLRrxnxWzUgjhw8fw?usp=sha
 
 ###  opencv gpu installation 
 
-> For Opencv-CUDA installation follow this link <\n>
+> For Opencv-CUDA installation follow this link <br/>
 https://www.youtube.com/watch?v=YsmhKar8oOc
 
 """ python demo.py --video video/ada.m4v --device gpu """
