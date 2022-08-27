@@ -10,16 +10,16 @@ https://drive.google.com/drive/folders/1_Y7Xy3hWqVj_crhCLRrxnxWzUgjhw8fw?usp=sha
 
 ###  opencv gpu installation 
 
-> I recommended follow this video for installation
+> For Opencv-CUDA installation follow this link
 https://www.youtube.com/watch?v=YsmhKar8oOc
 
 """ python demo.py --video video/ada.m4v --device gpu """
 
-[gpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_gpu.gif)
+![gpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_gpu.gif)
 
 ## Test cpu
 
-[cpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_cpu.gif)
+![cpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_cpu.gif)
 
 ## Contact
 
