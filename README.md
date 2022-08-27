@@ -7,8 +7,6 @@ https://drive.google.com/drive/folders/1_Y7Xy3hWqVj_crhCLRrxnxWzUgjhw8fw?usp=sha
 
 ##  Test with Opencv-CUDA
 
-###  opencv gpu installation 
-
 > For Opencv-CUDA installation follow this link: <br/>
 https://www.youtube.com/watch?v=YsmhKar8oOc
 
@@ -16,7 +14,7 @@ https://www.youtube.com/watch?v=YsmhKar8oOc
 
 ![gpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_gpu.gif)
 
-##3 Test cpu
+## Test cpu
 
 ``` python demo.py --video video/ada.m4v --device cpu```
 
