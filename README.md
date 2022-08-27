@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=YsmhKar8oOc
 
 ![gpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_gpu.gif)
 
-## Test cpu
+## Test on cpu
 
 ``` python demo.py --video video/ada.m4v --device cpu```
 
