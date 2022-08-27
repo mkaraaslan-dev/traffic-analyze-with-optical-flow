@@ -3,10 +3,10 @@
 In this application, optical flow test is performed on traffic data.
 
 
-## Downloading data on my drive
+##1 Downloading data on my drive
 https://drive.google.com/drive/folders/1_Y7Xy3hWqVj_crhCLRrxnxWzUgjhw8fw?usp=sharing
 
-## Test with Opencv-CUDA
+##2 Test with Opencv-CUDA
 
 ###  opencv gpu installation 
 
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=YsmhKar8oOc
 
 ![gpu_flow](https://github.com/KARAASLAN-AI/traffic-analyze-with-optical-flow/blob/main/images/flow_gpu.gif)
 
-## Test cpu
+##3 Test cpu
 
 ``` python demo.py --video video/ada.m4v --device cpu```
 
