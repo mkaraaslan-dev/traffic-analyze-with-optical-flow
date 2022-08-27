@@ -1,6 +1,6 @@
 # traffic-analyze-with-optical-flow
 
-In this application, optical flow test is performed on traffic data.
+In this application, optical flow performed on traffic data.
 
 Downloading data on my drive
 https://drive.google.com/drive/folders/1_Y7Xy3hWqVj_crhCLRrxnxWzUgjhw8fw?usp=sharing
